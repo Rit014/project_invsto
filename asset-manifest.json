@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project_invsto/static/css/main.b98601ea.css",
+    "main.js": "/project_invsto/static/js/main.baca473e.js",
+    "index.html": "/project_invsto/index.html",
+    "main.b98601ea.css.map": "/project_invsto/static/css/main.b98601ea.css.map",
+    "main.baca473e.js.map": "/project_invsto/static/js/main.baca473e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98601ea.css",
+    "static/js/main.baca473e.js"
+  ]
+}
